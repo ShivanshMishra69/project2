@@ -1,0 +1,23 @@
+div{
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+h1{
+    color: darkblue;
+    font-family: Arial, sans-serif;
+}
+p{
+    color: darkgreen;
+    font-size: 18px;
+}
+button{
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
