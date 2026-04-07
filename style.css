@@ -31,3 +31,12 @@ label{
     font-size: 16px;
     margin-right: 10px;
 }
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form-btn{
+    margin: 10px;
+}
