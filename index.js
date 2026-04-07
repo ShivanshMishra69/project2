@@ -5,3 +5,4 @@ const output = document.getElementById("output");
 button.addEventListener("click", () => {
     output.innerText = input.value;
 });
+
